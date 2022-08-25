@@ -14,6 +14,7 @@ This is a collection of interesting ELF files for inspiration and testing.
 | bye | 84 | netspooky | A golfed ELF that shuts down the computer |
 | f1ac5.bin | 106 | f1ac5 | Demonstrates a program header overlay at offset 0x31 |
 | fourtytwo | 114 | subvisor | Demonstrations a program header overlay at offset 0x38 |
+| go-away | 1441792 | birchb0y | A IBM S/390 ELF written in Go. |
 | myCoolBinary.elf | 40077 | netspooky | Contains ASCII art in the vernaux / verneeded entry and prints when you run it |
 | p82.3 | 82 | netspooky | 82 byte x86_64 ELF, requires 5 level paging to work |
 | phdr.0xFFFFprg.bin | 3670080 | netspooky | This ELF has 65,535 program headers, the maximum allowed in an ELF. |
