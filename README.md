@@ -26,6 +26,7 @@ This is a collection of interesting ELF files for inspiration and testing.
 | rqu.so | 136 | rqu | A small shared object used in the CVE-2021-3060 POC |
 | sigbusser | 130 | netspooky | Causes a bus error |
 | sigtrappin | 159 | netspooky | Was a challenge to enter a chat |
+| golfed.polymorphic.execve.x86 | 76 | SoEasY | `execve("/bin/sh", 0, 0)`, decoding "/bin/sh" and the SYSCALL instruction at runtime |
 
 # Contributing
 
